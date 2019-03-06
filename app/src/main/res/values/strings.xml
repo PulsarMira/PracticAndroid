@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="tests">
+        <item>Practic_3</item>
+        <item>Practic_4</item>
+        <item>Practic_5</item>
+        <item>Practic_6</item>
+        <item>Practic_9</item>
+        <item>Practic_10</item>
+        <item>Practic_12</item>
+        <item>Practic_13</item>
+    </string-array>
+</resources>
